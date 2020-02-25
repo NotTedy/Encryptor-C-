@@ -1,0 +1,10 @@
+U:\Laboratuiner_OOP\WindowsFormsThe Encryptor\WindowsFormsThe Encryptor\bin\Debug\WindowsFormsThe Encryptor.exe.config
+U:\Laboratuiner_OOP\WindowsFormsThe Encryptor\WindowsFormsThe Encryptor\bin\Debug\WindowsFormsThe Encryptor.exe
+U:\Laboratuiner_OOP\WindowsFormsThe Encryptor\WindowsFormsThe Encryptor\bin\Debug\WindowsFormsThe Encryptor.pdb
+U:\Laboratuiner_OOP\WindowsFormsThe Encryptor\WindowsFormsThe Encryptor\obj\Debug\WindowsFormsThe Encryptor.csprojAssemblyReference.cache
+U:\Laboratuiner_OOP\WindowsFormsThe Encryptor\WindowsFormsThe Encryptor\obj\Debug\WindowsFormsThe_Encryptor.Form1.resources
+U:\Laboratuiner_OOP\WindowsFormsThe Encryptor\WindowsFormsThe Encryptor\obj\Debug\WindowsFormsThe_Encryptor.Properties.Resources.resources
+U:\Laboratuiner_OOP\WindowsFormsThe Encryptor\WindowsFormsThe Encryptor\obj\Debug\WindowsFormsThe Encryptor.csproj.GenerateResource.cache
+U:\Laboratuiner_OOP\WindowsFormsThe Encryptor\WindowsFormsThe Encryptor\obj\Debug\WindowsFormsThe Encryptor.csproj.CoreCompileInputs.cache
+U:\Laboratuiner_OOP\WindowsFormsThe Encryptor\WindowsFormsThe Encryptor\obj\Debug\WindowsFormsThe Encryptor.exe
+U:\Laboratuiner_OOP\WindowsFormsThe Encryptor\WindowsFormsThe Encryptor\obj\Debug\WindowsFormsThe Encryptor.pdb
